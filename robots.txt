@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chickajob.github.io/chickajob.txt.gz
+Sitemap: https://chickajob.github.io/app/chickajob.txt.gz
+Sitemap: https://chickajob.github.io/assets/chickajob.txt.gz
+Sitemap: https://chickajob.github.io/css/chickajob.txt.gz
+Sitemap: https://chickajob.github.io/includes/chickajob.txt.gz
+Sitemap: https://chickajob.github.io/item/chickajob.txt.gz
+Sitemap: https://chickajob.github.io/src/chickajob.txt.gz
